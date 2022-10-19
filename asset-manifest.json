@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jhtmreactapp/static/css/main.073c9b0a.css",
-    "main.js": "/jhtmreactapp/static/js/main.b50070ea.js",
-    "static/js/787.11a6b819.chunk.js": "/jhtmreactapp/static/js/787.11a6b819.chunk.js",
-    "static/media/logo.svg": "/jhtmreactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jhtmreactapp/index.html",
-    "main.073c9b0a.css.map": "/jhtmreactapp/static/css/main.073c9b0a.css.map",
-    "main.b50070ea.js.map": "/jhtmreactapp/static/js/main.b50070ea.js.map",
-    "787.11a6b819.chunk.js.map": "/jhtmreactapp/static/js/787.11a6b819.chunk.js.map"
+    "main.css": "/jhtmreact/static/css/main.073c9b0a.css",
+    "main.js": "/jhtmreact/static/js/main.ef2c8979.js",
+    "static/js/787.11a6b819.chunk.js": "/jhtmreact/static/js/787.11a6b819.chunk.js",
+    "static/media/logo.svg": "/jhtmreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jhtmreact/index.html",
+    "main.073c9b0a.css.map": "/jhtmreact/static/css/main.073c9b0a.css.map",
+    "main.ef2c8979.js.map": "/jhtmreact/static/js/main.ef2c8979.js.map",
+    "787.11a6b819.chunk.js.map": "/jhtmreact/static/js/787.11a6b819.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b50070ea.js"
+    "static/js/main.ef2c8979.js"
   ]
 }
